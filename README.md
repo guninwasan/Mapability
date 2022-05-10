@@ -104,6 +104,9 @@ Since this is a university team project, there are strict instructions from the 
   [Video 1] Demoing Dijkstra Algorithm
   </p>
  
-* <b> Path between two points </b>
-
+* <b> Ordered Multiple Stops </b>
+   -  Ordered Multiple Stops is an extra feature that we added to our map. This is useful for people planning trips, cab drivers picking and dropping off passengers in an ordered manner if it is required.
+  <p align="center">
+       [Video 2] Demoing Ordered Multiple Stop
+         </p>
 
