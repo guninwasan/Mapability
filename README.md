@@ -118,7 +118,16 @@ Since this is a university team project, there are strict instructions from the 
          <img width="1042" alt="image" src="https://user-images.githubusercontent.com/98042082/167763682-f33a813c-c2fc-49d4-9143-92808eb55172.png">
          [Figure 12] Different Methods used to solve the problem 
          <br><br>
+         <img width="1012" alt="image" src="https://user-images.githubusercontent.com/98042082/167908524-2430219d-a8ce-4660-83e7-1c01f6bf0a7a.png">
+         [Figure 13] QoR of different methods 
+         <br><br>
+
   </p>
         
         
-
+## My Contributions:
+  <p align="center">
+         <img width="1440" alt="image" src="https://user-images.githubusercontent.com/98042082/167908402-c4fcf4ac-1f91-498b-982b-f2ff86e1714a.png">
+         [Figure 14] Total line changes committed while working on this project
+         <br><br>
+  </p>
