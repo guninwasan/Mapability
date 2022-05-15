@@ -115,17 +115,14 @@ Since this is a university team project, there are strict instructions from the 
          <img width="1042" alt="Methods to solve Travelling courier problem" src="https://user-images.githubusercontent.com/98042082/167763682-f33a813c-c2fc-49d4-9143-92808eb55172.png">
          [Figure 12] Different Methods used to solve the problem 
          <br><br>
-         <img width="1012" alt="QoR for different methods" src="https://user-images.githubusercontent.com/98042082/167908524-2430219d-a8ce-4660-83e7-1c01f6bf0a7a.png">
-         [Figure 13] QoR of different methods 
-         <br><br>
-
+         
   </p>
         
         
 ## My Contribution:
   <p align="center">
          <img width="1440" alt="Git line changes" src="https://user-images.githubusercontent.com/98042082/167908402-c4fcf4ac-1f91-498b-982b-f2ff86e1714a.png">
-         [Figure 14] Total line changes I committed while working on this project
+         [Figure 13] Total line changes I committed while working on this project
          <br><br>
   </p>
   
@@ -137,27 +134,34 @@ Since this is a university team project, there are strict instructions from the 
    <p align="center">
 
    <img width="1440" alt="About Map Button Location" src="https://user-images.githubusercontent.com/98042082/168441054-30a2df8f-2e7f-48f2-bacd-2c869460b270.png">
-         
    <img width="1440" alt="About Map Dialog" src="https://user-images.githubusercontent.com/98042082/168441058-9ef926fd-429f-4d93-9789-b3fb3454bc3f.png">
+   [Figure 14] About the Map Dialog
+   <br><br>
 
    </p>
    
    - We understand the importance of aesthetics and the visual fatigue caused to some people by looking at a certain color scheme for a long time. In addition to this, people with color-blindness have no alternative to use a color scheme as per their choosing. The team incorporated all these problems in Mapability. In the following steps, a user can understamd how to change different color schemes as per their choosing.
 
-    
    <p align="center">
 
    <img width="1440" alt="Color scheme button location" src="https://user-images.githubusercontent.com/98042082/168454124-910eb85b-a033-4177-abb9-1cfb02b38b54.png">
-         
    <img width="1440" alt="Color scheme expanded drop down" src="https://user-images.githubusercontent.com/98042082/168454126-82ace0da-7122-4924-99d1-71424dd47cc8.png">
+   [Figure 15] About the Map Dialog
+   <br><br>
    </p>
    
-   - In the next steps, we will be looking at how you can pan the map and/or control the map with your keyboard.
+   - In the next steps, we will be looking at how you can pan the map.
+        - Control with your keuboard
+        - Pan with your mouse
+        - Click the buttons to pan
     
    <p align="center">
 
    <img width="1440" alt="Screen Shot 2022-05-14 at 9 58 11 PM" src="https://user-images.githubusercontent.com/98042082/168454224-6409ab28-fd9d-43c0-b5cb-6c14c8643b5d.png">
-
+   [Figure 16] Panning buttons
+   <br><br>
    <img width="1440" alt="Screen Shot 2022-05-14 at 10 14 49 PM" src="https://user-images.githubusercontent.com/98042082/168454228-c71e5d1d-5832-4ae6-a80a-eb4ee597ee51.png">
+   [Figure 17] Pan using keyboard instructions
+   <br><br>
    </p>
    
