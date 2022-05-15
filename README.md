@@ -3,11 +3,23 @@ Since this is a university team project, there are strict instructions from the 
 
 # Table of Contents  
 1. [Description](#mapability)
-2. [Objectives/Milestones](#objectivesmilestones)
-3. [How to use Mapability?](#how-to-use-mapability)
-4. [Screenshots and Demo of Mapability](#screenshots-and-demo-of-mapability)
-5. [My Contribution](#my-contribution)
 
+2. [Objectives/Milestones](#objectivesmilestones)
+
+3. [How to use Mapability?](#how-to-use-mapability)
+     - [About the Map Dialog](#about-the-map)
+     - [Color Scheme Box](#color-scheme-box)
+     - [Panning the Map](#panning-and-controlling-the-map)
+
+4. [Screenshots and Demo of Mapability](#screenshots-and-demo-of-mapability)
+     - [Multiple Locations](#choose-between-different-locations)
+     - [Color Scheme Selector](#color-scheme-selector)
+     - [Feature Flags / Toggle Elements Box](#toggle-elements-box)
+     - [Shortest Path Finding Algorithm](#shortest-path-finding-algorithm)
+     - [Ordered Multiple Stops](#ordered-multiple-stops)
+     - [Travelling Courier Problem](#travelling-courier-problem)
+
+5. [My Contribution](#my-contribution)
 
 # Mapability
 Designed and developed a GIS Mapping System in C++ using data from OpenStreetsMap. This map is designed for general use but also emphasises on making the map accessible to everyone. Thus, the name Mapability -> Maps + Accessibility. The motto for Mapability is to create a GIS Software for the need.
