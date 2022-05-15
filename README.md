@@ -128,3 +128,36 @@ Since this is a university team project, there are strict instructions from the 
          [Figure 14] Total line changes I committed while working on this project
          <br><br>
   </p>
+  
+  
+## How to use Mapability?
+   - The team's goal was to make Mapability accessible to all. So, we tried to make all the features in the map easy to access and easy to understand.
+     We have set up an About This Map button so that in case anyone gets lost on how to use any feature, they can click on the "About" button and       understand which button performs what action.
+    
+   <p align="center">
+
+   <img width="1440" alt="About Map Button Location" src="https://user-images.githubusercontent.com/98042082/168441054-30a2df8f-2e7f-48f2-bacd-2c869460b270.png">
+         
+   <img width="1440" alt="About Map Dialog" src="https://user-images.githubusercontent.com/98042082/168441058-9ef926fd-429f-4d93-9789-b3fb3454bc3f.png">
+
+   </p>
+   
+   - We understand the importance of aesthetics and the visual fatigue caused to some people by looking at a certain color scheme for a long time. In addition to this, people with color-blindness have no alternative to use a color scheme as per their choosing. The team incorporated all these problems in Mapability. In the following steps, a user can understamd how to change different color schemes as per their choosing.
+
+    
+   <p align="center">
+
+   <img width="1440" alt="Color scheme button location" src="https://user-images.githubusercontent.com/98042082/168454124-910eb85b-a033-4177-abb9-1cfb02b38b54.png">
+         
+   <img width="1440" alt="Color scheme expanded drop down" src="https://user-images.githubusercontent.com/98042082/168454126-82ace0da-7122-4924-99d1-71424dd47cc8.png">
+   </p>
+   
+   - In the next steps, we will be looking at how you can pan the map and/or control the map with your keyboard.
+    
+   <p align="center">
+
+   <img width="1440" alt="Screen Shot 2022-05-14 at 9 58 11 PM" src="https://user-images.githubusercontent.com/98042082/168454224-6409ab28-fd9d-43c0-b5cb-6c14c8643b5d.png">
+
+   <img width="1440" alt="Screen Shot 2022-05-14 at 10 14 49 PM" src="https://user-images.githubusercontent.com/98042082/168454228-c71e5d1d-5832-4ae6-a80a-eb4ee597ee51.png">
+   </p>
+   
