@@ -171,9 +171,8 @@ Designed and developed a GIS Mapping System in C++ using data from OpenStreetsMa
  
 #### Ordered Multiple Stops:
 * <b> Ordered Multiple Stops </b>
-   -  Ordered Multiple Stops is an extra feature that we added to our map. This is useful for people planning trips, cab drivers picking and dropping off passengers in an ordered manner if it is required.
+   -  Ordered Multiple Stops is an extra feature that we added to our map. This is useful for people planning trips, cab drivers picking and dropping off passengers in an ordered manner.
   <p align="center">
-         <br><br>
          </p>
 
 #### Travelling Courier Problem:
