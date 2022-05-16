@@ -71,7 +71,7 @@ Designed and developed a GIS Mapping System in C++ using data from OpenStreetsMa
    </p>
    
    #### Color Scheme Box:
-   - We understand the importance of aesthetics and the visual fatigue caused to some people by looking at a certain color scheme for a long time. In addition to this, people with color-blindness have no alternative to use a color scheme as per their choosing. The team incorporated all these problems in Mapability. In the following steps, a user can understamd how to change different color schemes as per their choosing.
+   - We understand the importance of aesthetics and the visual fatigue caused to some people by looking at a certain color scheme for a long time. In addition to this, people with color-blindness have no alternative to use a color scheme as per their choosing. The team incorporated all these problems in Mapability. In the following steps, a user can understand how to change different color schemes as per their choosing.
 
    <p align="center">
 
@@ -83,7 +83,7 @@ Designed and developed a GIS Mapping System in C++ using data from OpenStreetsMa
    
    #### Panning and controlling the map:
    - In the next steps, we will be looking at how you can pan the map.
-        - Control with your keuboard
+        - Control with your keyboard
         - Pan with your mouse
         - Click the buttons to pan
     
@@ -103,7 +103,7 @@ Designed and developed a GIS Mapping System in C++ using data from OpenStreetsMa
 
 #### Choose between different locations:
 * <b>Multiple Locations</b>
-   - User can choose to select any map location from the 19 available options. (Figure 1 and Figure 2).
+   - User can choose to select any map location from the 19 available options.
       <p align="center">
       <img width="244" alt="Collapsed Drop Down" src="https://user-images.githubusercontent.com/98042082/167653332-d2b4d574-7fd3-41b9-af1d-8ac5c16becec.png">
       <br>
